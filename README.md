@@ -1,2 +1,2 @@
 # DijkstraAlgorithm-java
-Conheci o algoritmo de Dijkstra através do livro <a target="_blank" href="https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634">entendendo algoritmos</a> e resolvi criar uma implementação desse algoritmo em Java utilizando HashMaps.
+Conheci o <a href="https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/">algoritmo de Dijkstra</a> através do livro <a target="_blank" href="https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634">entendendo algoritmos</a> e resolvi criar uma implementação desse algoritmo em Java utilizando HashMaps.
